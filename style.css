@@ -1,0 +1,17 @@
+/* body {background-color: #BEE9E8;} */
+.bluebackground { background-color: #BEE9E8;}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    border-style: dotted;
+}
+.image {
+    border-radius: 20%;
+}
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
