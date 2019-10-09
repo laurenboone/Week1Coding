@@ -10,7 +10,7 @@ body {
     border-style: dotted;
 }
 .image {
-    border-radius: 20%;
+    background-position: top right;
 }
 li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
